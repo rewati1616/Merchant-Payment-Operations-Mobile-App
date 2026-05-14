@@ -20,3 +20,16 @@ Bashsrc/
 │   ├── pos/                # BigAmountInput, PayButton
 │   ├── wallet/             # BalanceCard, QuickActions
 │   └── invoice/            # InvoicePreview, PDFButton
+
+2. SmartPay - Merchant Wallet & POS App
+Recommended Extra Folders:
+Bashsrc/
+├── features/
+│   ├── wallet/
+│   ├── pos/
+│   ├── invoice/
+│   └── offline/
+├── components/
+│   ├── pos/                # BigAmountInput, PayButton
+│   ├── wallet/             # BalanceCard, QuickActions
+│   └── invoice/            # InvoicePreview, PDFButton
